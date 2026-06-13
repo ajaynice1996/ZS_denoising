@@ -1,5 +1,5 @@
 import pathlib
-from zs_nac.denoising_func import *
+from src.zs_nac.denoising_func import *
 import skimage
 import os
 import re
